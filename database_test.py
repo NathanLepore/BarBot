@@ -505,4 +505,4 @@ if __name__ == '__main__':
     # print(get_drink_count(input('Drink: ')))
     # return_user(input('Username: '))
     clear_times()
-    # update_start_time()
+    #reset_party_global_data()
